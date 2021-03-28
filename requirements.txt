@@ -1,6 +1,6 @@
 numpy
 pandas
-isthmuslib>=0.0.17
+isthmuslib>=0.0.18
 jupyter
 jupyterlab-kite>=2.0.2
 jupyter_contrib_nbextensions
