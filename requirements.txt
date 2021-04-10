@@ -1,5 +1,5 @@
 numpy
 pandas
-isthmuslib>=0.0.18
+isthmuslib>=0.0.22
 jupyter
 requests
